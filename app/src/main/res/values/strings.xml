@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Issues</string>
+    <string name="title_activity_fab">Fab</string>
+    <string name="title_activity_aid_provide">AidProvide</string>
+</resources>
